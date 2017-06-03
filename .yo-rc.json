@@ -1,0 +1,9 @@
+{
+  "generator-wix-js": {
+    "promptValues": {
+      "authorName": "Dovile Lapinskaite",
+      "authorEmail": "dovilel@wix.com",
+      "groupId": "com.wixpress.dovilel"
+    }
+  }
+}
